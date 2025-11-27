@@ -31,4 +31,6 @@ phonebook = {
 }
 phonebook.pop("Jill")
 print(phonebook)
+print(phonebook)
+
 
