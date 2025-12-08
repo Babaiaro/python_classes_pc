@@ -17,5 +17,10 @@ class D(B, C):
         print("class D")
         super().show()
 
+class E(D,C):
+    __init__(self):
+    
+
 d = D()
+
 d.show()
