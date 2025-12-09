@@ -18,5 +18,7 @@ library_degrees = math.degrees(radians_value)
 
 print("Manual conversion:", manual_degrees)
 print("Using math.degrees():", library_degrees)
+print(f"")
+
 
 
