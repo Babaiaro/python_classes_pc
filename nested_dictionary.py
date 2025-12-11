@@ -13,6 +13,7 @@ my_list_cars = {
         "name": "Mersedes",
         "model": "s500",
         "year": 1995
+        "color":"green"
 
     },
     "BMW":{
@@ -63,4 +64,5 @@ for x, object in myCompany.items():
     # Kenworth this is how it prints
 
 for z in object:
+
     print(z + ":", object[z])
