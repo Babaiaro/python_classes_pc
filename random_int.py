@@ -10,3 +10,5 @@ print("Problem 2: One random odd integer between 0 and 100")
 odd_number = random.randrange(1, 100, 2)
 
 print("Random odd integer:", odd_number)
+print("Random even integer")
+
