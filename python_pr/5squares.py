@@ -14,11 +14,11 @@ for i in range(4):       # Draw square
 t.penup()
 t.goto(150, 0)
 t.pendown()
-t.pendown()
 
 for i in range(4):       # Second square
     t.forward(100)
     t.right(90)
 
 turtle.done()
+
 
