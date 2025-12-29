@@ -20,7 +20,7 @@
 
 class circle:
     def draw(self):
-        print("draw a circle")
+        print("draw a circe")
         return
     
 class rectangle:
