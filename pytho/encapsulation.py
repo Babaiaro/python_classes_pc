@@ -5,7 +5,6 @@ class Student:
 
 s1.Student()
 s2.Student("Bharat", 25)
-s1.Student()
 
 
 s1.studentdata()
