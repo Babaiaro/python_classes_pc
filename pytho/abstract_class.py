@@ -6,6 +6,7 @@ class Vehicle(ABC):
     @abstractmethod
     def go(self):
         pass
+        pass
 
 
     @abstractmethod

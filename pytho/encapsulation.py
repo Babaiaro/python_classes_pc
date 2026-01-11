@@ -5,8 +5,6 @@ class Student:
 
 s1.Student()
 s2.Student("Bharat", 25)
-
-
 s1.studentdata()
 s2.studentdata()
 print("Name: {} marks: {}". format(s1.__name, s2.__marks))
