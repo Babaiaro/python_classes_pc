@@ -3,6 +3,7 @@ class democlass(ABC):
     @abstractmethod
     def method1(self):
         print("abstract method")
+        print("")
         return
     def method2(self):
         print("concrete method")
